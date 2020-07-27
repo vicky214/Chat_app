@@ -4,5 +4,5 @@ in it you can join with name and chat room and can start conversation with every
 
 To start the project first install both dependencies of client and server using npm install and then type nmpm start & nodemon index
 screenshot of project:
-![Screenshot (34)](https://user-images.githubusercontent.com/36834321/88549029-756ece80-d03d-11ea-9f38-48ed1525e1b7.png)
-![Screenshot (35)](https://user-images.githubusercontent.com/36834321/88549041-77d12880-d03d-11ea-9deb-f13fcb634ec2.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/36834321/88549642-2ecda400-d03e-11ea-9f38-5d2fb94f070f.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/36834321/88549650-30976780-d03e-11ea-82f2-8570f3fdc776.png)
